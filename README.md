@@ -1,10 +1,6 @@
-Now this is 🔥 — you gave everything needed for a REAL GitHub-level README.
 
-Here’s your FINAL README (clean + with your screenshots already integrated) 👇
 
-⸻
-
-📊 BC Housing Data Visualization App
+#📊 BC Housing Data Visualization App
 
 📌 Description
 
