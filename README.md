@@ -1,6 +1,6 @@
 
 
-#📊 BC Housing Data Visualization App
+📊 BC Housing Data Visualization App
 
 📌 Description
 
@@ -16,17 +16,13 @@ The project demonstrates:
 * Event-driven programming
 * Custom data visualization using Canvas
 
-⸻
 
 🖥️ Application Preview
 
 🏠 Main Interface
 
-⸻
 
 📍 Task 1 – High Rent Burden Areas (>50%)
-
-⸻
 
 🌍 Task 2 – Regional Analysis (Dropdown + Auto Update)
 
