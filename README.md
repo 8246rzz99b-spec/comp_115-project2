@@ -41,12 +41,12 @@ For Task 2, I connected the dropdown menu to an event (`<<ComboboxSelected>>`) s
 
 ### 📍 Task 1 – High Rent Burden  
 ![Task 1](Screenshots/task1-high-rent.PNG)
-
+When the Task 1 button get clicked, it scans the dataset and finds areas where rent burden is greater than 50%. It displays the names of those areas along with their percentages and shows the total number of high-risk areas.
 ---
 
 ### 🌍 Task 2 – Regional Analysis  
 ![Task 2](Screenshots/task2-region-analysis.PNG)
-
+When the Task 2 button get clicked, it calculates the average rent burden for a selected region. When the user chooses a region from the dropdown menu, the program filters the dataset and computes the average percentage of income spent on rent. The result updates automatically to make the program more interactive.
 ---
 
 ### 📈 Chart Visualization  
