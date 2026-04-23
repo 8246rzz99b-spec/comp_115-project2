@@ -4,7 +4,7 @@
 
 This project is a Python GUI application that I built using `tkinter` to analyze housing affordability data from the BC Census 2016 dataset.
 
-The goal of this program is to let users explore rent burden in different areas and regions in British Columbia in a simple and interactive way. The program shows results in text format and also visualizes the data using a bar chart.
+The goal of this program is to let users explore rent burden in different areas and regions in British Columbia in a simple and interactive way.This project includes both data analysis and data visualization. I analyzed housing affordability data to identify patterns such as high rent burden areas and regional differences, and then visualized the results using a custom-built chart for better understanding.
 
 This project demonstrates basic concepts in Python, including:
 
@@ -13,7 +13,7 @@ This project demonstrates basic concepts in Python, including:
 * Building a graphical user interface (GUI) with Tkinter  
 * Using event-driven programming (buttons and dropdown)  
 * Creating a custom chart using Canvas  
-
+* I used data analysis for calculation
 ---
 
 ## Code Overview
