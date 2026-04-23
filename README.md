@@ -35,22 +35,22 @@ For Task 2, I connected the dropdown menu to an event (`<<ComboboxSelected>>`) s
 ## 🖥️ Application Preview
 
 ### 🏠 Main Interface  
-![Main UI](screenshots/main-ui.png.PNG)
+![Main UI](Screenshots/main-ui.PNG)
 
 ---
 
 ### 📍 Task 1 – High Rent Burden  
-![Task 1](screenshots/task1-high-rent.png.PNG)
+![Task 1](Screenshots/task1-high-rent.PNG)
 
 ---
 
 ### 🌍 Task 2 – Regional Analysis  
-![Task 2](screenshots/task2-region-analysis.png.PNG)
+![Task 2](Screenshots/task2-region-analysis.PNG)
 
 ---
 
 ### 📈 Chart Visualization  
-![Chart](screenshots/chart-visualization.png.PNG)
+![Chart](Screenshots/chart-visualization.PNG)
 
 ---
 
