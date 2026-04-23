@@ -1,8 +1,6 @@
+#📊 BC Housing Data Visualization App
 
-
-📊 BC Housing Data Visualization App
-
-📌 Description
+##📌 Description
 
 This project is a Python Tkinter GUI application that analyzes housing affordability data from the BC Census 2016 dataset.
 
@@ -17,24 +15,24 @@ The project demonstrates:
 * Custom data visualization using Canvas
 
 
-🖥️ Application Preview
+##🖥️ Application Preview
 
-🏠 Main Interface
+##🏠 Main Interface
 
 
-📍 Task 1 – High Rent Burden Areas (>50%)
+##📍 Task 1 – High Rent Burden Areas (>50%)
 
-🌍 Task 2 – Regional Analysis (Dropdown + Auto Update)
+##🌍 Task 2 – Regional Analysis (Dropdown + Auto Update)
 
-⸻
 
-📈 Chart Visualization (Color-coded + Scrollable)
 
-⸻
+##📈 Chart Visualization (Color-coded + Scrollable)
 
-🚀 Features
 
-✅ Task 1 – High Rent Burden Detection
+
+##🚀 Features
+
+#✅ Task 1 – High Rent Burden Detection
 
 * Identifies areas where rent burden exceeds 50%
 * Displays CHSA names and percentages
@@ -42,7 +40,7 @@ The project demonstrates:
 
 ⸻
 
-🌍 Task 2 – Regional Analysis
+#🌍 Task 2 – Regional Analysis
 
 * Dropdown selection for:
     * Fraser
